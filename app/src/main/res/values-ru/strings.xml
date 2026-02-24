@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Арт-пространство</string>
+    <string name="previous">Предыдущий</string>
+    <string name="next">Следующий</string>
+
+    <string name="title1">Дискобол</string>
+    <string name="author1">Автор: Мирон из Элевфер</string>
+    <string name="year1">450 г. до н. э.</string>
+
+    <string name="title2">Ника Самофракийская</string>
+    <string name="author2">Автор: Пифокрит из Родоса</string>
+    <string name="year2">190 г. до н. э.</string>
+
+    <string name="title3">Лаокоон и его сыновья</string>
+    <string name="author3">Авторы: Агесандр, Полидор, Афинодор</string>
+    <string name="year3">40–30 гг. до н. э.</string>
+</resources>
